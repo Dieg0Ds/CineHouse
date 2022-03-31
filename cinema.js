@@ -1,3 +1,4 @@
+"Teste de commit"
 let filmes = require('./database/catalogo.json') //não esquecer o .json
 let cinema = "Cine Belas Artes 2.0"
 
