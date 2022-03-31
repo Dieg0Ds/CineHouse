@@ -1,0 +1,1 @@
+let helloWorld = () => console.log("HelloWorld")
