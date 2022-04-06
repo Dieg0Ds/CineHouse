@@ -1,3 +1,7 @@
 node_modules
 database
-calculadora
+.gitignore
+cinemaTeste.js
+exemplo.js
+package-lock.json
+package.json
