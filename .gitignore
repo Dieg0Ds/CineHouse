@@ -1,7 +1,0 @@
-node_modules
-database
-.gitignore
-cinemaTeste.js
-exemplo.js
-package-lock.json
-package.json
