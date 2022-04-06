@@ -2,6 +2,9 @@ node_modules
 database
 calculadora
 cinemaTeste.js
-exemplo.jspackage-lock.json
+exemplo.js
+package-lock.json
 package.json
 .gitignore
+testRepository
+
